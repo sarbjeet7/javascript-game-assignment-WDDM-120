@@ -1,2 +1,2 @@
 # javascript-game-assignment-WDDM-120
-Hangman JavaScript Game 
+Save the astronaut JavaScript Game 
